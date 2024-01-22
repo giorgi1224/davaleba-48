@@ -1,23 +1,23 @@
 .heading1 {
-    color: red;
+    color: #FF0000;
 }
 
 .paragraph1 {
-    color: gray;
+    color: #949494;
 }
 
 .heading2 {
-    color: blue;
+    color:#2400FF;
 }
 
 .paragraph2 {
-    color: red;
+    color: #FF2929;
 }
 
 .heading3 {
-    color: green;
+    color: #00461C;
 }
 
 .paragraph3 {
-    color: black;
+    color: #000000;
 }
